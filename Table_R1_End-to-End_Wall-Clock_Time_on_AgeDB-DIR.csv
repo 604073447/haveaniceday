@@ -1,0 +1,6 @@
+Method,Early Stop Epoch,Total Elapsed Time (s),Seconds / Epoch
+Vanilla,80,540.14,6.75
+LDS,82,742.84,9.06
+FDS,38,535.03,14.08
+RankSim,84,1014.53,12.08
+DMG-MoE,96,737.07,7.68
